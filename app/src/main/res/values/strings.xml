@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">My Memory App</string>
+    <string name="button">Button</string>
+    <string name="signup">SIGNUP</string>
+    <string name="already_have_an_account_login">Already have an account? Login</string>
+    <string name="otp">OTP</string>
+    <string name="password">Password</string>
+    <string name="email">Email</string>
+    <string name="login">LOGIN</string>
+    <string name="password2">Password</string>
+    <string name="still_no_account">Still no account?</string>
+    <string name="email2">Email2</string>
+    <string name="button2">Button</string>
+    <string name="sign_up">Sign up</string>
+    <string name="bImage">BackgroundImage</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="background">Background</string>
+    <string name="cash">Cash</string>
+    <string name="gcash">GCash</string>
+    <string name="checkout">CHECKOUT</string>
+    <string name="payment_method">PAYMENT METHOD</string>
+    <string name="still_no_account_sign_up">Still no account? Sign Up</string>
+</resources>
